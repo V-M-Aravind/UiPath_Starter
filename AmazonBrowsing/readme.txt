@@ -1,0 +1,1 @@
+Please use your own asset variables for url and credentials
